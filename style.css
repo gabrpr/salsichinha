@@ -32,6 +32,7 @@ header h3 {
     font-family: "Raleway";
     font-style: italic;
     font-size: 26px;
+    transform: translateY(100%);
 }
 
 header h1 {
